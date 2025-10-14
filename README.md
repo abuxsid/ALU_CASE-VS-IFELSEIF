@@ -127,7 +127,7 @@ Left side select the file and in Tools: launch verilog compiler with current sel
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 <img width="1919" height="1074" alt="Screenshot 2025-10-14 105037" src="https://github.com/user-attachments/assets/70c659a0-fb32-4425-bb49-0a8509a4105a" />
 
-<img width="1919" height="1079" alt="Screenshot 2025-10-14 102810" src="https://github.com/user-attachments/assets/93c80f84-895c-4459-9ad0-e48afbced32e" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-14 102831" src="https://github.com/user-attachments/assets/c01e0741-bab8-4946-953d-4cd3e5095387" />
 
 
 #### Fig 4: Compiled database in WorkLib
